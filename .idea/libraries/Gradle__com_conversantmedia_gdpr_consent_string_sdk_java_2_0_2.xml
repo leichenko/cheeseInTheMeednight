@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.conversantmedia.gdpr:consent-string-sdk-java:2.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.conversantmedia.gdpr/consent-string-sdk-java/2.0.2/716ae7e5f8e3f720e7e7fc17b4ba7cfe14889d28/consent-string-sdk-java-2.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.conversantmedia.gdpr/consent-string-sdk-java/2.0.2/144840713d84804fa4ba4d971efdc016ab60a8e7/consent-string-sdk-java-2.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
