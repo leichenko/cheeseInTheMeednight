@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.openrtb:openrtb-core:1.5.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.openrtb/openrtb-core/1.5.1/2d9609329d3e297b65c03a54508a410468c1c6e9/openrtb-core-1.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.openrtb/openrtb-core/1.5.1/56d1cefa5e0876039b9d99f57332fc388ec6cff9/openrtb-core-1.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

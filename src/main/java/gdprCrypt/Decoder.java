@@ -1,3 +1,5 @@
+package gdprCrypt;
+
 import com.iab.gdpr.consent.VendorConsent;
 import com.iab.gdpr.consent.VendorConsentDecoder;
 
