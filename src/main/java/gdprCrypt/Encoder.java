@@ -20,7 +20,6 @@ public class Encoder {
     static int consentScreen = 1;
     static String consentLanguage = "RU";
     static int vendorListV = 71;
-
     static int maxVendorId = 2011;
     static List<RangeEntry> isRange = new ArrayList<>();
     static int vendorIdBitString = 1;
@@ -37,7 +36,7 @@ public class Encoder {
                 .withVendorListVersion(vendorListV)
                 .withMaxVendorId(maxVendorId)
                 .withVendorEncodingType(vendorIdBitString)
-                .withDefaultConsent(false)
+                .withDefaultConsent(true)
                 .withRangeEntries(isRange)
                 .build();
         returner(vendorConsent);
@@ -55,7 +54,7 @@ public class Encoder {
                 .withAllowedPurposeIds(allowedPurposeIds)
                 .withMaxVendorId(maxVendorId)
                 .withVendorEncodingType(vendorIdBitString)
-                .withDefaultConsent(false)
+                .withDefaultConsent(true)
                 .withRangeEntries(isRange)
                 .build();
         returner(vendorConsent);
