@@ -34,8 +34,8 @@ public class PurposeData {
             storage_and_accessId,
             storage_and_accessId,
             storage_and_accessId,
+            ad_selectionId,
             content_deliveryId,
             personalizationId));
     public static Set<Integer> noValid = new HashSet<>(Collections.singletonList(purposeInvalid));
-    public static Set<Integer> emptyPurposes = new HashSet<>();
 }
